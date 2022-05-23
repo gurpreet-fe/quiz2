@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "question": "In which country are the world’s 10 coldest cities located?",
+    "options": [
+      { "option": "Russia", "isCorrect": true },
+      { "option": "Sweden", "isCorrect": false },
+      { "option": "Canada", "isCorrect": false },
+      { "option": "United States", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Where did polo originate?",
+    "options": [
+      { "option": "China", "isCorrect": false },
+      { "option": "Mexico", "isCorrect": false },
+      { "option": "India", "isCorrect": false },
+      { "option": "Iran", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Which continent is home to the most countries?",
+    "options": [
+      { "option": "Europe", "isCorrect": false },
+      { "option": "South America", "isCorrect": false },
+      { "option": "Asia", "isCorrect": false },
+      { "option": "Africa", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "What is the chemical element for the symbol Se?",
+    "options": [
+      { "option": "Seaborgium", "isCorrect": false },
+      { "option": "Selenium", "isCorrect": true },
+      { "option": "Silver", "isCorrect": false },
+      { "option": "Scandium", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "What is the chemical element for the symbol Ac?",
+    "options": [
+      { "option": "Cesium", "isCorrect": false },
+      { "option": "Aluminium", "isCorrect": false },
+      { "option": "Americium", "isCorrect": false },
+      { "option": "Actinium", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "What is the chemical element for the symbol Mg?",
+    "options": [
+      { "option": "Molybdenum", "isCorrect": false },
+      { "option": "Manganese", "isCorrect": false },
+      { "option": "Meitnerium", "isCorrect": false },
+      { "option": "Magnesium", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "How many moons does Saturn have?",
+    "options": [
+      { "option": "29", "isCorrect": false },
+      { "option": "60+", "isCorrect": true },
+      { "option": "4", "isCorrect": false },
+      { "option": "7", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "When was December 25 first identified as the day when Jesus was born?",
+    "options": [
+      { "option": "3rd century CE", "isCorrect": true },
+      { "option": "1st century CE", "isCorrect": false },
+      { "option": "10th century CE", "isCorrect": false },
+      { "option": "15th century CE", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "How many Earth years are equivalent to one year on Saturn?",
+    "options": [
+      { "option": "17", "isCorrect": false },
+      { "option": "54", "isCorrect": false },
+      { "option": "126.2", "isCorrect": false },
+      { "option": "29.5", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Who was the chief god of the ancient Greeks?",
+    "options": [
+      { "option": "Zeus", "isCorrect": true },
+      { "option": "Apollo", "isCorrect": false },
+      { "option": "Hermes", "isCorrect": false },
+      { "option": "Minerva", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Who is the fire-god of Hinduism?",
+    "options": [
+      { "option": "Brahma", "isCorrect": false },
+      { "option": "Vishnu", "isCorrect": false },
+      { "option": "Agni", "isCorrect": true },
+      { "option": "Varuna", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Which legendary founder of Rome was killed by his brother?",
+    "options": [
+      { "option": "Rudra", "isCorrect": false },
+      { "option": "Remus", "isCorrect": true },
+      { "option": "Rimmon", "isCorrect": false },
+      { "option": "Romulus", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "In Scandinavian mythology, what is the end of the world of gods and men?",
+    "options": [
+      { "option": "Rognerik", "isCorrect": false },
+      { "option": "Rinda", "isCorrect": false },
+      { "option": "Valhalla", "isCorrect": false },
+      { "option": "Ragnarök", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Sepia is a dyestuff obtained from the ink sacs of which creatures?",
+    "options": [
+      { "option": "Scorpions", "isCorrect": false },
+      { "option": "Honeybees", "isCorrect": false },
+      { "option": "Cuttlefish", "isCorrect": true },
+      { "option": "Hornets", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "What was commonly used to decorate palaces and homes of the wealthy around the Aegean Sea during the Late Bronze Age?",
+    "options": [
+      { "option": "Frescos", "isCorrect": true },
+      { "option": "Tiles", "isCorrect": false },
+      { "option": "Mosaics", "isCorrect": false },
+      { "option": "Ducks", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Who painted Guernica?",
+    "options": [
+      { "option": "Georges Braque", "isCorrect": false },
+      { "option": "Juan Gris", "isCorrect": false },
+      { "option": "Pablo Picasso", "isCorrect": true },
+      { "option": "Gino Severini", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "In which of these countries are Balochi rugs woven?",
+    "options": [
+      { "option": "Turkey", "isCorrect": false },
+      { "option": "China", "isCorrect": false },
+      { "option": "Indonesia", "isCorrect": false },
+      { "option": "Afghanistan", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "In traditional Chinese art, what does the dragon symbolize?",
+    "options": [
+      { "option": "Fear", "isCorrect": false },
+      { "option": "A duck", "isCorrect": false },
+      { "option": "A teacher", "isCorrect": false },
+      { "option": "The emperor", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Who designed the Hagia Sophia?",
+    "options": [
+      { "option": "Saladin", "isCorrect": false },
+      { "option": "Sinan", "isCorrect": false },
+      { "option": "Justinian I", "isCorrect": true },
+      { "option": "Theodora", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "The Wars of the Roses were fought in:",
+    "options": [
+      { "option": "Greece", "isCorrect": false },
+      { "option": "England", "isCorrect": true },
+      { "option": "Rhodesia", "isCorrect": false },
+      { "option": "Russia", "isCorrect": false }
+    ]
+  }
+]
